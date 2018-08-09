@@ -1,5 +1,5 @@
 import sys, time
-#sys.path.append(r'C:\Users\xiewenhua\Desktop\test')
+#sys.path.append(r'C:\Users\van\Desktop\test')
 sys.path.append(r'.')
 import __adbtest__
 import __sta_simulator__
