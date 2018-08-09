@@ -101,4 +101,4 @@ def adbtest():
 
 
 if __name__ == '__main__':
-    main()
+    adbtest()
