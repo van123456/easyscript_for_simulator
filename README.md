@@ -1,0 +1,2 @@
+# easyscript_for_simulator
+easyscript_for_simulator(模拟器简易脚本)
