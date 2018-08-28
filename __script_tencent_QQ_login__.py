@@ -68,7 +68,7 @@ if __name__ == "__main__":
         if i > 12:
             break
     time.sleep(4)
-    text(r'2572881705')
+    text(r'****')
     time.sleep(4)
     click(144, 212)
     time.sleep(1)
@@ -79,6 +79,6 @@ if __name__ == "__main__":
         if i > 10:
             break
     time.sleep(4)
-    text(r'xwh2835326')
+    text(r'******')
     time.sleep(1)
     click(283, 277)
