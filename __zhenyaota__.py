@@ -71,8 +71,8 @@ def screencap():
     print(cmd)
     os.popen(cmd)
     time.sleep(1)
-    os.rename("C:\\Users\\xiewenhau\\Desktop\\script\\screencap\\curr.png",
-              r"C:\\Users\\xiewenhau\\Desktop\\script\\screencap\\%s" % time_now + ".png")
+    os.rename("C:\\Users\\van\\Desktop\\script\\screencap\\curr.png",
+              r"C:\\Users\\van\\Desktop\\script\\screencap\\%s" % time_now + ".png")
     time.sleep(1)
     cmd = "adb shell rm -rf /data/local/curr.png"
     os.popen(cmd)
