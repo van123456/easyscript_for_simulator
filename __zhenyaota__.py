@@ -1,3 +1,4 @@
+# 每个模拟器不同，需要自己改
 # coding='utf-8'
 import os, time
 import time
